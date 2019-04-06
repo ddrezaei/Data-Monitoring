@@ -1,4 +1,4 @@
-# Data-Monotoring
+# Data-Monitoring
 Data Monitoring and Plotting in Python Tkinter
 
 A live data monitoring and plotting program for a HIL simulator in Python 2.
